@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vanessa Rodrigues</h1>
-<h3 align="center">I am passionate about Cybersecurity and Hacking and also a FullStack Web Dev Enthusiast.</h3>
+<h3 align="center">I am passionate about Cybersecurity and I am a FullStack Web Dev Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vanessa-Rodrigues-156&label=Profile%20views&color=0e75b6&style=flat" alt="Vanessa-Rodrigues-156" /> </p>
 
